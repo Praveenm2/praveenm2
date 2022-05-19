@@ -6,6 +6,5 @@
 />
 ## Stats 📈
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=praveenm2&show_icons=true&theme=tokyonight" />     
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenm2&show_icons=true&theme=tokyonight" />
-     <p/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Praveenm2&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</p>
