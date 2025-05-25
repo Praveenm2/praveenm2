@@ -14,9 +14,6 @@ Software Tester
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=blue&labelColor=white&style=for-the-badge" />
 </a>
 
-
-## Technology
-
 ## Certification
 
 | Category | Certification |
@@ -49,10 +46,10 @@ Software Tester
 
 ## Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bob-fornal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveenm2&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
 
 
-## Stats 📈
+## Detailed Stats 📈
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=praveenm2&show_icons=true&theme=tokyonight" />     
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenm2&show_icons=true&theme=tokyonight" />
